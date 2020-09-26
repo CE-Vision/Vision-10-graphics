@@ -1,0 +1,79 @@
+{
+  "Department": [
+    {
+      "post": "Head",
+      "name": "Hemakshi Jani",
+      "photo": "",
+      "github": "https://github.com/hemakshi-07",
+      "portfolio": "",
+      "linkedin": ""
+    },
+
+    {
+      "post": "Head",
+      "name": "Zalak Desai",
+      "photo": "",
+      "github": "",
+      "portfolio": "",
+      "linkedin": ""
+    },
+
+    {
+      "post": "Co-Head",
+      "name": "Dhrumil Shah",
+      "photo": "",
+      "github": "https://github.com/dhrumilshah57",
+      "portfolio": "",
+      "linkedin": ""
+    }
+  ],
+
+  "Tech": [
+    {
+      "post": "Head",
+      "name": "Harsh Kotwani",
+      "photo": "",
+      "github": "https://github.com/whatharshcodes",
+      "portfolio": "",
+      "linkedin": "https://www.linkedin.com/in/harshkotwani/"
+    },
+
+    {
+      "post": "Head",
+      "name": "Parag Radadiya",
+      "photo": "",
+      "github": "",
+      "portfolio": "",
+      "linkedin": ""
+    },
+
+    {
+      "post": "Co-Head",
+      "name": "Harshita Daswani",
+      "photo": "",
+      "github": "",
+      "portfolio": "",
+      "linkedin": ""
+    }
+  ],
+
+  "Non-Tech": [
+    {
+      "post": "Head",
+      "name": "Harshil Gosai",
+      "photo": "",
+      "github": "",
+      "portfolio": "",
+      "linkedin": ""
+    },
+
+    {
+      "post": "Co-Head",
+      "name": "Meet Shah",
+      "photo": "",
+      "github": "https://github.com/meetshah27",
+      "portfolio": "",
+      "linkedin": ""
+    }
+  ]
+}
