@@ -1,10 +1,21 @@
-[
-  {
-    "post": "",
-    "name": "",
-    "photo": "",
-    "github": "",
-    "portfolio": "",
-    "linkedin": ""
-  }
-]
+{
+  "tag": [
+    {
+      "post": "",
+      "name": "",
+      "photo": "",
+      "github": "",
+      "portfolio": "",
+      "linkedin": ""
+    },
+
+    {
+      "post": "",
+      "name": "",
+      "photo": "",
+      "github": "",
+      "portfolio": "",
+      "linkedin": ""
+    }
+  ]
+}
